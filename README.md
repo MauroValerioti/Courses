@@ -4,7 +4,7 @@
 
 ## Acerca de mí
 
-Soy [tu nombre], estudiante de [tu carrera] en [nombre de tu universidad]. Mi pasión por [tu área de estudio] se refleja en los proyectos que encontrarás aquí. A lo largo de mi trayectoria académica, he trabajado en una variedad de temas que abarcan desde [menciona algunas áreas específicas, como desarrollo web, inteligencia artificial, bases de datos] hasta [otras áreas relevantes].
+Soy Mauro Valerioti, estudiante de Ingenieria en Sistemas en la UNICEN. Mi pasión por Desarrollo Web se refleja en los proyectos que encontrarás aquí. A lo largo de mi trayectoria académica, he trabajado en una variedad de temas que abarcan desde Bases de Datos, Algoritmos e Interfaces de usuario UX/UI hasta Desarrollo FrontEnd, Desarrollo Backend, Testing QA y Automation.
 
 ## Estructura del Repositorio
 
@@ -16,4 +16,11 @@ Este repositorio no solo sirve como un registro de mis logros académicos, sino 
 
 ## Contáctame
 
-Si
+Si tienes preguntas, sugerencias o simplemente quieres conectarte, no dudes en contactarme. Puedes encontrarme en:
+
+- https://www.linkedin.com/in/maurovalerioti/
+- mauro.valerioti.18@gmail.com
+
+¡Espero que disfrutes explorando mi trabajo tanto como yo disfruté realizándolo!
+
+¡Gracias por visitar mi repositorio!
