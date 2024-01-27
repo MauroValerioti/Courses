@@ -1,6 +1,6 @@
 # Proyecto de Microservicios con Java Spring Boot
 
-¡Bienvenido al repositorio de nuestro proyecto final de la materia de XXX! Este proyecto, desarrollado en colaboración con mis compañeros de facultad, es una implementación robusta de microservicios utilizando Java Spring Boot y varias tecnologías modernas.
+Este projecto fue realizado junto a companeros de la facultad UNICEN con el objetivo de desarrollar el backend completo y funcionalidades relacionadas a una aplicacion de estacion de monopatines el cual podria compararse con una app para las estaciones de retiro de bicicletas de la Ciudad Autonoma de Buenos Aires.
 
 ## Tecnologías Utilizadas
 - **Java Spring Boot**: Utilizamos el framework Spring Boot para simplificar el desarrollo de microservicios, aprovechando su eficiencia y facilidad de configuración.
@@ -16,9 +16,8 @@
 Este proyecto representa la culminación de nuestros estudios en la materia, donde aplicamos los conocimientos adquiridos en el diseño e implementación de microservicios. Cada uno de nosotros contribuyó al desarrollo de diferentes componentes, abordando aspectos como la seguridad, la persistencia de datos y la gestión de dependencias.
 
 ## Estructura del Repositorio
-- **/microservicio1**: Contiene el código fuente y la configuración específica para el microservicio 1.
-- **/microservicio2**: Similar al anterior, pero para el microservicio 2.
-- **/config**: Archivos de configuración comunes para la correcta ejecución de los microservicios.
-- **/documentacion**: Aquí encontrarás la documentación detallada del proyecto.
+- **/Administracion**: Contiene el código fuente y la configuración específica para el microservicio de administracion de usuarios y monopatines.
+- **/ServicioMonopatin**: Similar al anterior, pero para el microservicio monopatin.
+- **/Usuario**: Similar a los 2 anteriores, pero para el microservicio usuario.
 
-¡Esperamos que encuentres útil nuestro trabajo! No dudes en explorar el código fuente, revisar la documentación y contribuir si así lo deseas. ¡Gracias por visitar nuestro repositorio!
+¡Esperamos que encuentres útil nuestro trabajo! No dudes en explorar el código fuente y revisar la documentación. ¡Gracias por visitar el repositorio!
