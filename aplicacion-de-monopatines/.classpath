@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Administracion/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Administracion/src/main/java"/>
+	<classpathentry kind="src" path="Administracion/src/test/java"/>
+	<classpathentry kind="src" path="ServicioMonopatin/.mvn/wrapper"/>
+	<classpathentry kind="src" path="ServicioMonopatin/src/main/java"/>
+	<classpathentry kind="src" path="ServicioMonopatin/src/test/java"/>
+	<classpathentry kind="src" path="Usuario/.mvn/wrapper"/>
+	<classpathentry kind="src" path="Usuario/src/main/java"/>
+	<classpathentry kind="src" path="Usuario/src/test/java"/>
+	<classpathentry kind="output" path="Administracion/src/bin"/>
+</classpath>
